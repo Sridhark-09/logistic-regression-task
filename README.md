@@ -1,2 +1,5 @@
-# logistic-regression-task
-Binary classification using Logistic Regression on Breast Cancer dataset
+logistic-regression-task/
+│
+├── logistic_regression.ipynb
+├── README.md
+└── data.csv   (optional)
